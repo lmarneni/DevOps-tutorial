@@ -1,2 +1,4 @@
 This file is created to know the use the commit command in GIT 
 as part of making changes.
+
+modified
